@@ -10,7 +10,7 @@ export default function IndividualPostList() {
   });
 
   if (isLoading) {
-    return <div>유저 리스트 로딩..</div>;
+    return <div>post 리스트 로딩..</div>;
   }
 
   return (

@@ -10,7 +10,7 @@ export default function IndividualUserList() {
   });
 
   if (isLoading) {
-    return <div>유저 리스트 로딩..</div>;
+    return <div>user 리스트 로딩..</div>;
   }
 
   return (
